@@ -33,3 +33,9 @@ Para esse desafio temos os seguintes testes:
 - **`should not be able to update a product amount when running out of stock`**
 
 - **`should not be able to update a product amount to a value smaller than 1`**
+
+# Resultado final
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="completed" title="#D1" src="public/completed.gif" width="1024px">
+</p>
+
